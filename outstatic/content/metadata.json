@@ -1,6 +1,6 @@
 {
-  "commit": "41406683645eca24fbb1808accea3f71d6448eea",
-  "generated": "2025-11-26T09:46:06.423Z",
+  "commit": "6b751d9d7114921421db7b7b590620c73169e946",
+  "generated": "2025-11-26T09:46:37.326Z",
   "metadata": [
     {
       "__outstatic": {
@@ -117,9 +117,9 @@
     },
     {
       "__outstatic": {
-        "commit": "41406683645eca24fbb1808accea3f71d6448eea",
-        "hash": "2945951507",
-        "path": "outstatic/content/broad/tai-tie-gong-si-zi-114nian-12yue-23ri-qi-jin-xing-shi-ke-wei-diao.mdx"
+        "commit": "6b751d9d7114921421db7b7b590620c73169e946",
+        "hash": "3601558877",
+        "path": "outstatic/content/broad/1.mdx"
       },
       "author": {
         "name": "LI JUN YI",
@@ -127,7 +127,7 @@
       },
       "collection": "broad",
       "publishedAt": "2025-11-26T10:33:31.979Z",
-      "slug": "tai-tie-gong-si-zi-114nian-12yue-23ri-qi-jin-xing-shi-ke-wei-diao",
+      "slug": "1",
       "status": "draft",
       "title": "臺鐵公司自114年12月23日起進行時刻微調"
     }
