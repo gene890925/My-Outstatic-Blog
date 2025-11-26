@@ -1,6 +1,6 @@
 {
-  "commit": "babb05d819d1b4b7d72889509b47f286a2ec38c9",
-  "generated": "2025-11-26T08:53:11.506Z",
+  "commit": "95853389d2ef3ac4af2e6f3f66c0d7e5eae4e112",
+  "generated": "2025-11-26T08:54:33.459Z",
   "metadata": [
     {
       "__outstatic": {
@@ -25,22 +25,6 @@
       "slug": "hello-world",
       "status": "draft",
       "title": "hello world"
-    },
-    {
-      "__outstatic": {
-        "commit": "69d167692ef004643e569c965a323b9c015c786e",
-        "hash": "760216858",
-        "path": "outstatic/content/modules/2.mdx"
-      },
-      "author": {
-        "name": "LI JUN YI",
-        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
-      },
-      "collection": "modules",
-      "publishedAt": "2025-11-26T09:07:14.781Z",
-      "slug": "2",
-      "status": "draft",
-      "title": "AIOT分析應用發展支持"
     },
     {
       "__outstatic": {
@@ -90,6 +74,24 @@
       "slug": "1",
       "status": "draft",
       "title": "事故事件管理軟體"
+    },
+    {
+      "__outstatic": {
+        "commit": "95853389d2ef3ac4af2e6f3f66c0d7e5eae4e112",
+        "hash": "473431322",
+        "path": "outstatic/content/modules/2.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Globe",
+      "order": 7,
+      "publishedAt": "2025-11-26T09:07:14.781Z",
+      "slug": "2",
+      "status": "draft",
+      "title": "AIOT分析應用發展支持"
     }
   ]
 }
