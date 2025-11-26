@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2025-11-26T06:12:49.313Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "4150093166",
+        "path": "outstatic/content/test/hello-world.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "test",
+      "publishedAt": "2025-11-26T07:00:38.013Z",
+      "slug": "hello-world",
+      "status": "draft",
+      "title": "hello world"
+    }
+  ]
+}
