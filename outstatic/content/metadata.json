@@ -1,10 +1,18 @@
 {
-  "commit": "1a023b5ff16fe456e6cf355b7bce1d0f1879fdf3",
-  "generated": "2025-11-26T07:57:22.921Z",
+  "commit": "",
+  "generated": "Wed, 26 Nov 2025 08:05:59 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "",
+        "commit": "b43bf86b50fd8d3529a0dc062c30006ed38f309e",
+        "hash": "493191890",
+        "path": "README.md"
+      },
+      "slug": "README.md"
+    },
+    {
+      "__outstatic": {
+        "commit": "48124fd247ad4aebf448c6c24d6cb9ba55543ee0",
         "hash": "4150093166",
         "path": "outstatic/content/test/hello-world.mdx"
       },
@@ -20,7 +28,7 @@
     },
     {
       "__outstatic": {
-        "commit": "1a023b5ff16fe456e6cf355b7bce1d0f1879fdf3",
+        "commit": "5c766f30dc826f7071004dc3ce65a754cb422a19",
         "hash": "1735259168",
         "path": "outstatic/content/modules/1.mdx"
       },
