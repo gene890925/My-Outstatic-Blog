@@ -1,6 +1,6 @@
 {
-  "commit": "a2ccccf1c7884b3c82efeb6f8055fc7e8a6324d3",
-  "generated": "2025-11-26T09:42:37.924Z",
+  "commit": "41406683645eca24fbb1808accea3f71d6448eea",
+  "generated": "2025-11-26T09:46:06.423Z",
   "metadata": [
     {
       "__outstatic": {
@@ -114,6 +114,22 @@
       "slug": "5",
       "status": "draft",
       "title": "路線資訊服務軟體"
+    },
+    {
+      "__outstatic": {
+        "commit": "41406683645eca24fbb1808accea3f71d6448eea",
+        "hash": "2945951507",
+        "path": "outstatic/content/broad/tai-tie-gong-si-zi-114nian-12yue-23ri-qi-jin-xing-shi-ke-wei-diao.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "broad",
+      "publishedAt": "2025-11-26T10:33:31.979Z",
+      "slug": "tai-tie-gong-si-zi-114nian-12yue-23ri-qi-jin-xing-shi-ke-wei-diao",
+      "status": "draft",
+      "title": "臺鐵公司自114年12月23日起進行時刻微調"
     }
   ]
 }
