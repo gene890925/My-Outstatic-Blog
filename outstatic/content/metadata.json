@@ -1,6 +1,6 @@
 {
-  "commit": "029308295876058dd43d53a58d1e9c46682a454d",
-  "generated": "2025-11-26T07:40:49.437Z",
+  "commit": "1a023b5ff16fe456e6cf355b7bce1d0f1879fdf3",
+  "generated": "2025-11-26T07:57:22.921Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,8 +20,8 @@
     },
     {
       "__outstatic": {
-        "commit": "029308295876058dd43d53a58d1e9c46682a454d",
-        "hash": "2654437148",
+        "commit": "1a023b5ff16fe456e6cf355b7bce1d0f1879fdf3",
+        "hash": "1735259168",
         "path": "outstatic/content/modules/1.mdx"
       },
       "author": {
@@ -32,7 +32,7 @@
       "publishedAt": "2025-11-26T08:28:35.294Z",
       "slug": "1",
       "status": "draft",
-      "title": "1"
+      "title": "收集系統"
     }
   ]
 }
