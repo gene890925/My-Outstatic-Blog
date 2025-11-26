@@ -1,6 +1,6 @@
 {
-  "commit": "69d167692ef004643e569c965a323b9c015c786e",
-  "generated": "2025-11-26T08:48:05.887Z",
+  "commit": "fd83edd76bc9871fbfb6e6158de2003e910b16f1",
+  "generated": "2025-11-26T08:49:03.267Z",
   "metadata": [
     {
       "__outstatic": {
@@ -44,22 +44,6 @@
     },
     {
       "__outstatic": {
-        "commit": "fc311d082898fa26c230ba0f355d492987f64b54",
-        "hash": "3556233973",
-        "path": "outstatic/content/modules/4.mdx"
-      },
-      "author": {
-        "name": "LI JUN YI",
-        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
-      },
-      "collection": "modules",
-      "publishedAt": "2025-11-26T09:15:54.699Z",
-      "slug": "4",
-      "status": "draft",
-      "title": "測試模組4"
-    },
-    {
-      "__outstatic": {
         "commit": "42ad4e3dd0e19e6fc4470f1bbfeb2c2491d2ef63",
         "hash": "932152866",
         "path": "outstatic/content/modules/1.mdx"
@@ -89,6 +73,22 @@
       "slug": "2",
       "status": "draft",
       "title": "AIOT分析應用發展支持"
+    },
+    {
+      "__outstatic": {
+        "commit": "fd83edd76bc9871fbfb6e6158de2003e910b16f1",
+        "hash": "772641647",
+        "path": "outstatic/content/modules/4.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "publishedAt": "2025-11-26T09:15:54.699Z",
+      "slug": "4",
+      "status": "draft",
+      "title": "閉路電視監視軟體"
     }
   ]
 }
