@@ -1,6 +1,6 @@
 {
-  "commit": "cca47ecb9e934d94e53f17fca31e5a83f15afaf9",
-  "generated": "2025-11-26T08:55:50.079Z",
+  "commit": "2ff355717c1af53825108987e1bfbf83c0826f69",
+  "generated": "2025-11-26T08:56:07.202Z",
   "metadata": [
     {
       "__outstatic": {
@@ -81,8 +81,8 @@
     },
     {
       "__outstatic": {
-        "commit": "cca47ecb9e934d94e53f17fca31e5a83f15afaf9",
-        "hash": "3416184037",
+        "commit": "2ff355717c1af53825108987e1bfbf83c0826f69",
+        "hash": "1502293443",
         "path": "outstatic/content/modules/4.mdx"
       },
       "author": {
@@ -90,7 +90,7 @@
         "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
       },
       "collection": "modules",
-      "icon": "Tv",
+      "icon": "TV",
       "order": 8,
       "publishedAt": "2025-11-26T09:15:54.699Z",
       "slug": "4",
