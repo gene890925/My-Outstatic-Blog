@@ -1,6 +1,6 @@
 {
-  "commit": "ffe1bcae7fae211ff5a516ad30a8398f68a96031",
-  "generated": "2025-11-26T08:56:23.922Z",
+  "commit": "a2ccccf1c7884b3c82efeb6f8055fc7e8a6324d3",
+  "generated": "2025-11-26T09:42:37.924Z",
   "metadata": [
     {
       "__outstatic": {
@@ -96,6 +96,24 @@
       "slug": "4",
       "status": "draft",
       "title": "閉路電視監視軟體"
+    },
+    {
+      "__outstatic": {
+        "commit": "a2ccccf1c7884b3c82efeb6f8055fc7e8a6324d3",
+        "hash": "22564349",
+        "path": "outstatic/content/modules/5.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Map",
+      "order": 9,
+      "publishedAt": "2025-11-26T10:29:18.452Z",
+      "slug": "5",
+      "status": "draft",
+      "title": "路線資訊服務軟體"
     }
   ]
 }
