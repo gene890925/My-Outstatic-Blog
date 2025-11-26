@@ -10,5 +10,11 @@
     "slug": "modules",
     "path": "outstatic/content/modules",
     "children": []
+  },
+  {
+    "title": "m",
+    "slug": "m",
+    "path": "",
+    "children": []
   }
 ]
