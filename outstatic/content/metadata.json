@@ -1,6 +1,6 @@
 {
-  "commit": "9b8e0def96f19de408b7c000af5a5c7c8d2fddd6",
-  "generated": "2025-11-26T08:24:21.369Z",
+  "commit": "be5b00e8948d1b8c847b8f7b1be3a7b24511562d",
+  "generated": "2025-11-26T08:28:02.042Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,6 +73,22 @@
       "slug": "ce-shi-mo-zu-3",
       "status": "draft",
       "title": "測試模組3"
+    },
+    {
+      "__outstatic": {
+        "commit": "be5b00e8948d1b8c847b8f7b1be3a7b24511562d",
+        "hash": "3786252073",
+        "path": "outstatic/content/modules/ce-shi-mo-zu-4.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "publishedAt": "2025-11-26T09:15:54.699Z",
+      "slug": "ce-shi-mo-zu-4",
+      "status": "draft",
+      "title": "測試模組4"
     }
   ]
 }
