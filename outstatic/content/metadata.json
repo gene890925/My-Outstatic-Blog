@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Wed, 26 Nov 2025 08:05:59 GMT",
+  "commit": "72e3f7d2c552c5c05143e740f891796cc4884d0b",
+  "generated": "2025-11-26T08:16:47.541Z",
   "metadata": [
     {
       "__outstatic": {
@@ -28,8 +28,8 @@
     },
     {
       "__outstatic": {
-        "commit": "5c766f30dc826f7071004dc3ce65a754cb422a19",
-        "hash": "1735259168",
+        "commit": "72e3f7d2c552c5c05143e740f891796cc4884d0b",
+        "hash": "2444966384",
         "path": "outstatic/content/modules/1.mdx"
       },
       "author": {
@@ -40,7 +40,7 @@
       "publishedAt": "2025-11-26T08:28:35.294Z",
       "slug": "1",
       "status": "draft",
-      "title": "收集系統"
+      "title": "測試模組"
     }
   ]
 }
