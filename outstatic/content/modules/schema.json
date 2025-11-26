@@ -1,6 +1,11 @@
 {
   "title": "modules",
-  "slug": "modules",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "icon": {
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "icon"
+    }
+  }
 }
