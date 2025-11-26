@@ -1,6 +1,6 @@
 {
-  "commit": "be5b00e8948d1b8c847b8f7b1be3a7b24511562d",
-  "generated": "2025-11-26T08:28:02.042Z",
+  "commit": "8158320048404935c149e60bc843629e72bd3fbe",
+  "generated": "2025-11-26T08:28:44.443Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,8 +76,8 @@
     },
     {
       "__outstatic": {
-        "commit": "be5b00e8948d1b8c847b8f7b1be3a7b24511562d",
-        "hash": "3786252073",
+        "commit": "8158320048404935c149e60bc843629e72bd3fbe",
+        "hash": "527903761",
         "path": "outstatic/content/modules/ce-shi-mo-zu-4.mdx"
       },
       "author": {
