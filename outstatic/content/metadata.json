@@ -1,6 +1,6 @@
 {
-  "commit": "adeb19595933f4bf2f1283ccb76b0d4dbea3bae1",
-  "generated": "2025-11-26T08:37:46.665Z",
+  "commit": "c3d31f0f394df2f8e9739dd319e2cf449a59d213",
+  "generated": "2025-11-26T08:38:44.065Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,7 +76,7 @@
     },
     {
       "__outstatic": {
-        "commit": "adeb19595933f4bf2f1283ccb76b0d4dbea3bae1",
+        "commit": "c3d31f0f394df2f8e9739dd319e2cf449a59d213",
         "hash": "816777935",
         "path": "outstatic/content/modules/1.mdx"
       },
