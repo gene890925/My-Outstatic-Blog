@@ -1,6 +1,6 @@
 {
-  "commit": "1aaf4665bbc1cbcf85e4bd86b4771fe01f758d29",
-  "generated": "2025-11-26T08:49:36.337Z",
+  "commit": "babb05d819d1b4b7d72889509b47f286a2ec38c9",
+  "generated": "2025-11-26T08:53:11.506Z",
   "metadata": [
     {
       "__outstatic": {
@@ -25,22 +25,6 @@
       "slug": "hello-world",
       "status": "draft",
       "title": "hello world"
-    },
-    {
-      "__outstatic": {
-        "commit": "42ad4e3dd0e19e6fc4470f1bbfeb2c2491d2ef63",
-        "hash": "932152866",
-        "path": "outstatic/content/modules/1.mdx"
-      },
-      "author": {
-        "name": "LI JUN YI",
-        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
-      },
-      "collection": "modules",
-      "publishedAt": "2025-11-26T08:28:35.294Z",
-      "slug": "1",
-      "status": "draft",
-      "title": "事故事件管理軟體"
     },
     {
       "__outstatic": {
@@ -89,6 +73,23 @@
       "slug": "3",
       "status": "draft",
       "title": "經營管理分析軟體"
+    },
+    {
+      "__outstatic": {
+        "commit": "babb05d819d1b4b7d72889509b47f286a2ec38c9",
+        "hash": "1199737085",
+        "path": "outstatic/content/modules/1.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Cone",
+      "publishedAt": "2025-11-26T08:28:35.294Z",
+      "slug": "1",
+      "status": "draft",
+      "title": "事故事件管理軟體"
     }
   ]
 }
