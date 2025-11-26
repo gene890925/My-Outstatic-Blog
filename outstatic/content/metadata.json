@@ -1,6 +1,6 @@
 {
-  "commit": "ae9fe21d8ced1c591d04e737dbff251f3394a57c",
-  "generated": "2025-11-26T08:54:52.071Z",
+  "commit": "115332985516b16d81b663b77aa449d1818a7d8e",
+  "generated": "2025-11-26T08:55:14.170Z",
   "metadata": [
     {
       "__outstatic": {
@@ -44,22 +44,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1aaf4665bbc1cbcf85e4bd86b4771fe01f758d29",
-        "hash": "1227302548",
-        "path": "outstatic/content/modules/3.mdx"
-      },
-      "author": {
-        "name": "LI JUN YI",
-        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
-      },
-      "collection": "modules",
-      "publishedAt": "2025-11-26T09:12:18.250Z",
-      "slug": "3",
-      "status": "draft",
-      "title": "經營管理分析軟體"
-    },
-    {
-      "__outstatic": {
         "commit": "babb05d819d1b4b7d72889509b47f286a2ec38c9",
         "hash": "1199737085",
         "path": "outstatic/content/modules/1.mdx"
@@ -92,6 +76,24 @@
       "slug": "2",
       "status": "draft",
       "title": "AIOT分析應用發展支持"
+    },
+    {
+      "__outstatic": {
+        "commit": "115332985516b16d81b663b77aa449d1818a7d8e",
+        "hash": "3970270627",
+        "path": "outstatic/content/modules/3.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Building2",
+      "order": 16,
+      "publishedAt": "2025-11-26T09:12:18.250Z",
+      "slug": "3",
+      "status": "draft",
+      "title": "經營管理分析軟體"
     }
   ]
 }
