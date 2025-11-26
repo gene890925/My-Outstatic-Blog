@@ -1,6 +1,6 @@
 {
-  "commit": "6b751d9d7114921421db7b7b590620c73169e946",
-  "generated": "2025-11-26T09:46:37.326Z",
+  "commit": "a23c004f8dcb5bddfe2da5cca742d3fb2638e0db",
+  "generated": "2025-11-26T09:49:26.725Z",
   "metadata": [
     {
       "__outstatic": {
@@ -117,8 +117,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6b751d9d7114921421db7b7b590620c73169e946",
-        "hash": "3601558877",
+        "commit": "a23c004f8dcb5bddfe2da5cca742d3fb2638e0db",
+        "hash": "1807330862",
         "path": "outstatic/content/broad/1.mdx"
       },
       "author": {
@@ -128,7 +128,7 @@
       "collection": "broad",
       "publishedAt": "2025-11-26T10:33:31.979Z",
       "slug": "1",
-      "status": "draft",
+      "status": "published",
       "title": "臺鐵公司自114年12月23日起進行時刻微調"
     }
   ]
