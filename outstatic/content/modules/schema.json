@@ -6,6 +6,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "icon"
+    },
+    "order": {
+      "description": "13",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "order"
     }
   }
 }
