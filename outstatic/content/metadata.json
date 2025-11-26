@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2025-11-26T06:12:49.313Z",
+  "commit": "029308295876058dd43d53a58d1e9c46682a454d",
+  "generated": "2025-11-26T07:40:49.437Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "hello-world",
       "status": "draft",
       "title": "hello world"
+    },
+    {
+      "__outstatic": {
+        "commit": "029308295876058dd43d53a58d1e9c46682a454d",
+        "hash": "2654437148",
+        "path": "outstatic/content/modules/1.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "publishedAt": "2025-11-26T08:28:35.294Z",
+      "slug": "1",
+      "status": "draft",
+      "title": "1"
     }
   ]
 }
