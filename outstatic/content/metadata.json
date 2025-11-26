@@ -1,6 +1,6 @@
 {
-  "commit": "115332985516b16d81b663b77aa449d1818a7d8e",
-  "generated": "2025-11-26T08:55:14.170Z",
+  "commit": "cca47ecb9e934d94e53f17fca31e5a83f15afaf9",
+  "generated": "2025-11-26T08:55:50.079Z",
   "metadata": [
     {
       "__outstatic": {
@@ -25,22 +25,6 @@
       "slug": "hello-world",
       "status": "draft",
       "title": "hello world"
-    },
-    {
-      "__outstatic": {
-        "commit": "fd83edd76bc9871fbfb6e6158de2003e910b16f1",
-        "hash": "772641647",
-        "path": "outstatic/content/modules/4.mdx"
-      },
-      "author": {
-        "name": "LI JUN YI",
-        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
-      },
-      "collection": "modules",
-      "publishedAt": "2025-11-26T09:15:54.699Z",
-      "slug": "4",
-      "status": "draft",
-      "title": "閉路電視監視軟體"
     },
     {
       "__outstatic": {
@@ -94,6 +78,24 @@
       "slug": "3",
       "status": "draft",
       "title": "經營管理分析軟體"
+    },
+    {
+      "__outstatic": {
+        "commit": "cca47ecb9e934d94e53f17fca31e5a83f15afaf9",
+        "hash": "3416184037",
+        "path": "outstatic/content/modules/4.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Tv",
+      "order": 8,
+      "publishedAt": "2025-11-26T09:15:54.699Z",
+      "slug": "4",
+      "status": "draft",
+      "title": "閉路電視監視軟體"
     }
   ]
 }
