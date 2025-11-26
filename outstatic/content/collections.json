@@ -16,5 +16,11 @@
     "slug": "m",
     "path": "",
     "children": []
+  },
+  {
+    "title": "broad",
+    "slug": "broad",
+    "path": "outstatic/content/broad",
+    "children": []
   }
 ]
