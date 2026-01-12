@@ -1,0 +1,135 @@
+{
+  "commit": "a23c004f8dcb5bddfe2da5cca742d3fb2638e0db",
+  "generated": "2025-11-26T09:49:26.725Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "b43bf86b50fd8d3529a0dc062c30006ed38f309e",
+        "hash": "493191890",
+        "path": "README.md"
+      },
+      "slug": "README.md"
+    },
+    {
+      "__outstatic": {
+        "commit": "48124fd247ad4aebf448c6c24d6cb9ba55543ee0",
+        "hash": "4150093166",
+        "path": "outstatic/content/test/hello-world.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "test",
+      "publishedAt": "2025-11-26T07:00:38.013Z",
+      "slug": "hello-world",
+      "status": "draft",
+      "title": "hello world"
+    },
+    {
+      "__outstatic": {
+        "commit": "babb05d819d1b4b7d72889509b47f286a2ec38c9",
+        "hash": "1199737085",
+        "path": "outstatic/content/modules/1.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Cone",
+      "publishedAt": "2025-11-26T08:28:35.294Z",
+      "slug": "1",
+      "status": "draft",
+      "title": "事故事件管理軟體"
+    },
+    {
+      "__outstatic": {
+        "commit": "ae9fe21d8ced1c591d04e737dbff251f3394a57c",
+        "hash": "3385457965",
+        "path": "outstatic/content/modules/2.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Globe",
+      "order": 7,
+      "publishedAt": "2025-11-26T09:07:14.781Z",
+      "slug": "2",
+      "status": "draft",
+      "title": "AIOT分析應用發展支持"
+    },
+    {
+      "__outstatic": {
+        "commit": "115332985516b16d81b663b77aa449d1818a7d8e",
+        "hash": "3970270627",
+        "path": "outstatic/content/modules/3.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Building2",
+      "order": 16,
+      "publishedAt": "2025-11-26T09:12:18.250Z",
+      "slug": "3",
+      "status": "draft",
+      "title": "經營管理分析軟體"
+    },
+    {
+      "__outstatic": {
+        "commit": "ffe1bcae7fae211ff5a516ad30a8398f68a96031",
+        "hash": "2110972452",
+        "path": "outstatic/content/modules/4.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Link",
+      "order": 8,
+      "publishedAt": "2025-11-26T09:15:54.699Z",
+      "slug": "4",
+      "status": "draft",
+      "title": "閉路電視監視軟體"
+    },
+    {
+      "__outstatic": {
+        "commit": "a2ccccf1c7884b3c82efeb6f8055fc7e8a6324d3",
+        "hash": "22564349",
+        "path": "outstatic/content/modules/5.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "modules",
+      "icon": "Map",
+      "order": 9,
+      "publishedAt": "2025-11-26T10:29:18.452Z",
+      "slug": "5",
+      "status": "draft",
+      "title": "路線資訊服務軟體"
+    },
+    {
+      "__outstatic": {
+        "commit": "a23c004f8dcb5bddfe2da5cca742d3fb2638e0db",
+        "hash": "1807330862",
+        "path": "outstatic/content/broad/1.mdx"
+      },
+      "author": {
+        "name": "LI JUN YI",
+        "picture": "https://avatars.githubusercontent.com/u/185520622?v=4"
+      },
+      "collection": "broad",
+      "publishedAt": "2025-11-26T10:33:31.979Z",
+      "slug": "1",
+      "status": "published",
+      "title": "臺鐵公司自114年12月23日起進行時刻微調"
+    }
+  ]
+}
